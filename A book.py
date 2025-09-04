@@ -9,7 +9,7 @@ class Accounts:
 		
 facebook = Accounts("07148254493@gmail",  "Terer Somtdili",  "656956")
 
-google = Accounts("felixenesko", "felixenesko", "Eneojo1@9862@Justification")
+google = Accounts("08165852258", "Zojdnesko", "Ebastijo1@ificat")
 
 istagram = Accounts ("82288458888", "Zanaskbd", "lgdgadon")
 
