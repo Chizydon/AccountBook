@@ -1,4 +1,4 @@
-`class Accounts:
+class Accounts:
 	def __init__(self, phone_email, username, password):
 		self.phone_email = phone_email
 		self.username = username
@@ -17,4 +17,4 @@ google3 = Accounts("123598898", "paisefsko", "stifichhkffation")
 
 yahoo = Accounts("125888788", "fjkfjvhesko", "967284vn rosoft")
 
-yahoo.show() `
+yahoo.show()
